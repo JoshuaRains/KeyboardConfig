@@ -130,7 +130,8 @@
 
       "1": ["ɱ"],
 
-      "2": ["ɯ"]
+      "2": ["ɯ"],
+	    "3": ["n"]
 
     },
 
@@ -388,7 +389,7 @@
 }
 
 },
-  "square_size": 34,
+  "square_size": 54,
   "background_color": "#ffffff",
   "window_opacity": 1,
   "window_position": [0, 48],
